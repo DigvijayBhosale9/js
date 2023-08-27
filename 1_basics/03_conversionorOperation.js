@@ -20,8 +20,30 @@ let isLoggedIn=
 // "" =>false
 // "Digvijay" => true
 
-let somenumber = 33
+//let somenumber = 33
 
-let stringnumber = String(somenumber)
-console.log(stringnumber);
-console.log(typeof stringnumber);
+//let stringnumber = String(somenumber)
+// console.log(stringnumber);
+// console.log(typeof stringnumber);
+
+// ********Operations********//
+let value = 3
+let negValue = -3
+console.log(negValue);
+
+console.log(2+2);
+console.log(2-2);
+console.log(2*2);
+console.log(2**2);
+console.log(2/3);
+console.log(2%3);
+
+
+console.log("1"+2);
+console.log(1+"2");
+console.log("1"+2+2);
+console.log(1+2+"2");
+
+
+
+
